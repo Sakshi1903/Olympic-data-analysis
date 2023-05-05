@@ -1,7 +1,7 @@
 # Olympic-data-analysis
 
 This project is a Streamlit web application for the analysis of olympics dataset.
-Download the zip file to access the entire project.
+
 
 Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 ##Overview of the project:- 
@@ -25,3 +25,4 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 ![image](https://user-images.githubusercontent.com/71291152/236435997-5c9c22c4-a485-40a3-b494-fd6151b34cf9.png)
 ![image](https://user-images.githubusercontent.com/71291152/236436046-2068cfbc-393d-44bb-adaf-1779512df9cd.png)
 
+Download the olympic-data-analysis.zip file to access the entire project.
