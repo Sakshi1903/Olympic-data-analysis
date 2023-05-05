@@ -28,3 +28,4 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 ![image](https://user-images.githubusercontent.com/71291152/236436046-2068cfbc-393d-44bb-adaf-1779512df9cd.png)
 
 
+command to run the application :  py -m streamlit run app.py
